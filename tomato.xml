@@ -1,6 +1,6 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <manifest>
-  <project path="device/yu/tomato" name="RiteshSaxena/android_device_yu_tomato" remote="github" revision="main" />
+  <project path="device/yu/tomato" name="RiteshSaxena/android_device_yu_tomato" remote="github" revision="nitrogen" />
   <project path="device/cyanogen/msm8916-common" name="RiteshSaxena/android_device_cyanogen_msm8916-common" remote="github" revision="cm-14.1" />
   <project path="vendor/yu" name="RiteshSaxena/proprietary_vendor_yu" remote="github" revision="main" />
   <project path="kernel/cyanogen/msm8916" name="RiteshSaxena/Reloaded_tomato" remote="github" revision="stock-latest" />
