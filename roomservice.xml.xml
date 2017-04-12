@@ -1,0 +1,10 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<manifest>
+  <project path="device/yu/tomato" name="dragonlord91/android_device_yu_tomato" remote="github" revision="uos-0.2" />
+  <project path="device/cyanogen/msm8916-common" name="dragonlord91/android_device_cyanogen_msm8916-common" remote="github" revision="aex" />
+  <project path="vendor/yu" name="dragonlord91/proprietary_vendor_yu" remote="github" revision="aex" />
+  <project path="kernel/cyanogen/msm8916" name="dragonlord91/Reloaded_tomato" remote="github" revision="stock" />
+  <project path="hardware/cyanogen" name="LineageOS/android_hardware_cyanogen" remote="github" revision="cm-14.1" />
+  <project path="packages/resources/devicesettings" name="LineageOS/android_packages_resources_devicesettings" remote="github" revision="cm-14.1" />
+  <project path="vendor/qcom/binaries" name="dragonlord91/proprietary_vendor_qcom_binaries" remote="github" revision="cm-14.1" />
+</manifest>
